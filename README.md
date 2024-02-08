@@ -28,7 +28,7 @@ This project contains automated tests for the RudderStack application, covering 
 
 2. Update the wdio.api.conf.js and wdio.ui.conf.js files with the appropriate configurations.
 
-## Running Tests using feature file path
+## Running Tests
 1.    ```bash
         NODE_ENV=qa npx wdio wdio.conf.js
     
