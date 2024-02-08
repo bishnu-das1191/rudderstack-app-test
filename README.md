@@ -9,13 +9,13 @@ This project contains automated tests for the RudderStack application, covering 
    git clone https://github.com/bishnu-das1191/rudderstack-app-test.git
 
 
-## Navigate to the project directory:
+2. Navigate to the project directory:
     ```bash
     cd rudderstack-app-test
 
 
-## Install dependencies:
-    ```
+3. Install dependencies:
+    ```bash
     npm install
     
 
@@ -29,7 +29,7 @@ This project contains automated tests for the RudderStack application, covering 
 2. Update the wdio.api.conf.js and wdio.ui.conf.js files with the appropriate configurations.
 
 ## Running Tests using feature file path
-    ```bash
+1.    ```bash
         NODE_ENV=qa npx wdio wdio.conf.js
     
  Note : 'qa' can be used as input enviornment.
