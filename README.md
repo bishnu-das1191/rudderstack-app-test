@@ -15,7 +15,7 @@ This project contains automated tests for the RudderStack application, covering 
 
 
 ## Install dependencies:
-    ```bash
+    ```
     npm install
     
 
